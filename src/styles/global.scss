@@ -1,0 +1,10 @@
+@use "./variables.scss";
+
+
+
+body {
+    font-size: var(--font-md);
+    color: var(--color-text-main);
+    background: var(--color-bg-main);
+    direction: rtl;
+}
